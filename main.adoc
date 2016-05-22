@@ -1,0 +1,83 @@
+= The Title
+Some Person <somebody@somwehere.com>
+:backend: revealjs
+:revealjs_theme: solarized
+:revealjs_control: true
+
+
+== Why Privacy
+
+[%step]
+* Misuse of Personal Information
+* Privacy and Relationship
+* Autonomy
+* Human Dignity
+* Privacy and Power
+
+
+[NOTE.speaker]
+--
+When we speak of privacy, particularly as a right, we focus on the individual. The individual must be shielded from the prying curiosity of others and from prejudice and discrimination. The individual's autonomy and control over his or her person must be preserved. The individual must be protected from intimidation and coercion by government.
+--
+
+== Free software and Privacy
+
+* Software controls what you do
+* How to control the software ?
+* Importance of source code
+* Verifying the software
+
+== Technology Standards
+
+* Importance of standards
+* Hardware/Physical std.
+* Software std.
+
+== Encryption
+
+* How it works
+* Types of Encryption
+* Trusting unknown entities
+* Internet CA and SSL trust model
+* End-to-end encryption
+
+== Using Encryption
+
+* Email
+* IM
+* VoIP
+
+== Email
+
+* PKI and PGP
+* How to use
+
+== VoIP
+
+* SIP/ZRTP/RTSP
+* Services and Clients
+
+== IM
+
+* XMPP
+* OTR, OMEMO, PGP
+* Services and Clients
+
+== Private messaging Focus
+
+* Kontalk
+* Chatsecure
+* Briar, Zom, Pidgin
+
+== The Initiative
+
+* Make our tools better
+* Reduce barrier for non-techy users
+* Get sponsored!
+
+== Whats in store for you?
+
+* Github speaks louder than your CV
+* Work with brilliant minds across the world
+* Get public recognition
+
